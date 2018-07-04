@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "ultimatedungeoncleanerV4.data.unityweb",
+"asmCodeUrl": "ultimatedungeoncleanerV4.asm.code.unityweb",
+"asmMemoryUrl": "ultimatedungeoncleanerV4.asm.memory.unityweb",
+"asmFrameworkUrl": "ultimatedungeoncleanerV4.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
